@@ -1,4 +1,4 @@
-## README for Industrial Data Analytics Project
+## Industrial Data Analytics Project
 
 ### Project Title: **Predictive Maintenance in CNC Milling Machines**
 
