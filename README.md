@@ -42,13 +42,13 @@ To develop a predictive model capable of:
      - **Rectification**: Converting values to absolute for uniform analysis.
      - **Low-pass filtering**: Removing high-frequency noise.
      - **Smoothing**: Applying a moving average for a cleaner signal.
-
+![WhatsApp Image 2024-11-18 at 20 16 22_38f843db](https://github.com/user-attachments/assets/5ec73e5a-9449-4412-87e3-2833c2c39131)
 2. **Feature Engineering:**
    - **Operating Conditions:** Weighted higher (1.5x) for critical importance.
    - **Frequency-Domain Features:** Using FFT to capture periodic patterns.
    - **Time-Domain Features:** Extracting statistical measures (mean, standard deviation, RMS).
    - **Dimensionality Reduction:** Recursive Feature Elimination (RFE) to identify top 10 features.
-![WhatsApp Image 2024-11-18 at 20 16 22_38f843db](https://github.com/user-attachments/assets/5ec73e5a-9449-4412-87e3-2833c2c39131)
+![WhatsApp Image 2024-11-18 at 20 45 19_3cd17cf0](https://github.com/user-attachments/assets/b8a8564c-4c67-4f4f-b639-cde21828b561)
 
 ---
 
